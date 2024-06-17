@@ -1,4 +1,4 @@
-package net.enginneringdigest.journalApp.Controller;
+ package net.enginneringdigest.journalApp.Controller;
 
 import net.enginneringdigest.journalApp.entity.JournalEntry;
 import net.enginneringdigest.journalApp.service.JournalEntryService;
